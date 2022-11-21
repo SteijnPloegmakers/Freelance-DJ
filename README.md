@@ -1,6 +1,7 @@
 # FreelanceDJ
 Welcome to the main repository of the 'FreelanceDJ' application. It is made for organisers from parties, festivals and clubs to hire a DJ which offers his services on this application. For each DJ you will see what their price is, what kind of music they play, on which dates they are available, etc.
 
+### Scrum Board
 * [Github-Board](https://github.com/users/SteijnPloegmakers/projects/5)
 
 ### Repositories
