@@ -11,3 +11,6 @@ Welcome to the main repository of the 'FreelanceDJ' application. It is made for 
 
 ### Architecture
 * [C4-Model](https://github.com/SteijnPloegmakers/FreelanceDJ/wiki/C4-Model)
+
+### Research
+* Gitflow Research
