@@ -14,3 +14,4 @@ Welcome to the main repository of the 'FreelanceDJ' application. It is made for 
 
 ### Research
 * [Gitflow Research](https://github.com/SteijnPloegmakers/FreelanceDJ/wiki/Research-GitFlow)
+* [Secrets Research](https://github.com/SteijnPloegmakers/FreelanceDJ/wiki/Research-Secrets)
