@@ -13,5 +13,5 @@ Welcome to the main repository of the 'FreelanceDJ' application. It is made for 
 * [C4-Model](https://github.com/SteijnPloegmakers/FreelanceDJ/wiki/C4-Model)
 
 ### Research
-* [Gitflow Research](https://github.com/SteijnPloegmakers/FreelanceDJ/wiki/Research-GitFlow)
-* [Secrets Research](https://github.com/SteijnPloegmakers/FreelanceDJ/wiki/Research-Secrets)
+* [Research GitFLow](https://github.com/SteijnPloegmakers/FreelanceDJ/wiki/Research-GitFlow)
+* [Research Secrets](https://github.com/SteijnPloegmakers/FreelanceDJ/wiki/Research-Secrets)
